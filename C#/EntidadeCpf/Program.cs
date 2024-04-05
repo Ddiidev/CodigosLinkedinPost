@@ -28,6 +28,9 @@ public class Cpf
 
 	public static implicit operator string(Cpf cpf) => cpf.Cpf_;
 
+	// Esse código de validação de CPF, foi retirado do site do macorati
+	// Esse método não faz parte da dica passada.
+	// https://www.macoratti.net/11/09/c_val1.htm
 	static bool CpfValido(string cpf)
 	{
 		int[] multiplicador1 = [10, 9, 8, 7, 6, 5, 4, 3, 2];
