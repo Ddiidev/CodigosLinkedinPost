@@ -1,7 +1,7 @@
 
 # Readonly
 
-Esse é um projeto baseado em um post no linkedin, é possível encontra-lo aqui: [Linkedin]()
+Esse é um projeto baseado em um post no linkedin, é possível encontra-lo aqui: [✅ Readonly](https://www.linkedin.com/posts/andreluizss_c-tip-readonly-sabia-que-existe-activity-7183771722293075968-mbwT)
 
 E no projeto mostro dois modos de criar propriedades somente leitura.
 
