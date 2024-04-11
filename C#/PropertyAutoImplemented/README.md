@@ -1,4 +1,4 @@
-Esse é um projeto baseado em um post no linkedin, é possível encontra-lo aqui: [✅ PropertysPure]()
+Esse é um projeto baseado em um post no linkedin, é possível encontra-lo aqui: [✅ PropertysPure](https://www.linkedin.com/posts/andreluizss_c-tip-propriedades-auto-implementadas-activity-7184231360683773952-928M)
 
 E no projeto vou mostrar que para um VO(Value Object) não é necessário um `{get; set;}` auto implementado.
 
