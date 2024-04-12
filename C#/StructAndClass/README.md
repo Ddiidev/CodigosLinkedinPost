@@ -1,7 +1,7 @@
 ﻿
 # StructAndClass
 
-Esse é um projeto baseado em um post no linkedin, é possível encontra-lo aqui: [✅ StructAndClass]()
+Esse é um projeto baseado em um post no linkedin, é possível encontra-lo aqui: [✅ StructAndClass](https://www.linkedin.com/posts/andreluizss_class-and-struct-tipo-de-refer%C3%AAncia-e-tipo-activity-7184578320196354050-ZYjk)
 
 E no projeto mostro dois modos de representar uma estrutura Produto, usando classe / struct.
 
