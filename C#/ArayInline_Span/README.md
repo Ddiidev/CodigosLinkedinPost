@@ -1,3 +1,5 @@
+Esse é um projeto baseado em um post no linkedin, é possível encontra-lo aqui: [✅ ArraInlineAndSpan](https://www.linkedin.com/posts/andreluizss_c-tip-arrayinline-e-spant-escova%C3%A7%C3%A3o-activity-7185653613392777218-XjMb)
+
 Este é um exemplo de código utlizando o novo atributo ArrayInline do .NET 9.
 E o Span<T> e stckalloc que é relativamente antigo.
 
