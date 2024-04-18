@@ -1,9 +1,12 @@
 
 # Exception or Result
 
-Esse repositório faz parte de um post publicado no, que pode ser encontrado [✅ Exception or Result]().
+Esse repositório faz parte de um post publicado no, que pode ser encontrado [✅ Exception or Result](https://www.linkedin.com/posts/andreluizss_tabnews-activity-7186781671738798080-Fxos).
 
 Abaixo demosto que utilizar exceptions pode tornar a execução de uma aplicação mais pesada em caso de falhas.
+
+> [!NOTE]
+> Para o caso em que utilizei sem exceção, fiz de modo muito ingênuo, aconselho a utilizar o [fluat](https://github.com/andrebaltieri/Flunt)
 
 ```
 
