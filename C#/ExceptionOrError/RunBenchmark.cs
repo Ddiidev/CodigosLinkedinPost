@@ -12,8 +12,7 @@ public class RunBenchmark
 		{
 			WithException.IPeople father = new WithException.Father("Pai", 19, 1);
 
-			if (father.GetBenefit() > 0)
-				_ = true;
+			var benefit = father.GetBenefit();
 		} catch (Exception ex)
 		{
 		}
@@ -22,7 +21,7 @@ public class RunBenchmark
 		{
 			WithException.IPeople mother = new WithException.Mother("Mãe", 18, -1);
 
-			_ = mother.GetBenefit();
+			var benefit = father.GetBenefit();
 		} catch (Exception ex)
 		{
 			Console.WriteLine($"Error => {ex.Message}");
