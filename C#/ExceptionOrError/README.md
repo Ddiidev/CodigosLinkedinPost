@@ -1,5 +1,5 @@
 
-# Exception or Result
+# Exception or Error
 
 Esse repositório faz parte de um post publicado no, que pode ser encontrado [✅ Exception or Result](https://www.linkedin.com/posts/andreluizss_tabnews-activity-7186781671738798080-Fxos).
 
