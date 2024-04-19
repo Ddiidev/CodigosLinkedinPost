@@ -1,6 +1,6 @@
 # Object or Dynamic
 
-Esse projeto faz parte de uma publicação feita no Linkedin, que pode ser encontrado aqui: [✅ ObjectOrDynamic]()
+Esse projeto faz parte de uma publicação feita no Linkedin, que pode ser encontrado aqui: [✅ ObjectOrDynamic](https://www.linkedin.com/posts/andreluizss_object-or-dynamic-activity-7187075162280714240-jaAw)
 
 A seguir, apresento a comparação entre o desempenho do tipo de dado "object" em relação ao tipo "dynamic". Profissionais com experiência reconhecem de forma instintiva a diferença, no entanto, é importante destacar essa distinção por meio de métricas.
 
