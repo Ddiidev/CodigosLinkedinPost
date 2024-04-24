@@ -4,8 +4,10 @@ internal static class Program
 {
 	static unsafe void Main()
 	{
-		using var obj = new Any();
+		using Any obj = 123;
 
+		Console.WriteLine(obj.Get<int>());
+		
 		obj.Put("André");
 		Console.WriteLine(obj.Get<string>());
 
