@@ -1,6 +1,6 @@
 # List or Enumerable
 
-Esse é um projeto baseado em um post no linkedin, é possível encontra-lo aqui: [✅ List or Enumerable]()
+Esse é um projeto baseado em um post no linkedin, é possível encontra-lo aqui: [✅ List or Enumerable](https://www.linkedin.com/posts/andreluizss_pare-de-usar-listt-listt-ou-enumerable-activity-7191119561176367105-MK6i)
 
 E no projeto vou mostrar quatro exemplos de consumir uma lista de produtos.
 
